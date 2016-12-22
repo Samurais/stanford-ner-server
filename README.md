@@ -16,5 +16,9 @@ docker run -it --rm samurais/stanford-ner-server
 ```
 If you are new to Docker, please note that due to the rm command line argument above all your file changes within the container will be lost.
 
+## Demo
+http://corenlp.run/
+
 ## Links
 https://github.com/NaturalNode/node-nltools
+https://cs.nyu.edu/grishman/jet/guide/PennPOS.html
